@@ -12,4 +12,4 @@ Used to add domnain names to the /etc/hosts file
 
 
 # Usage
-in the domain_add.sh file change the path to where you have stored it
+in the domain_add.sh file change the path to where you have stored the main.py file
